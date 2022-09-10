@@ -3,9 +3,7 @@ import streamlit as st
 import cv2
 import time
 import numpy as np
-
 import tensorflow
-import tensorflow as tf
 
 font = cv2.FONT_HERSHEY_SIMPLEX
   
